@@ -18,20 +18,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-# 📝 Projects Experience
-
-[**Project**]
--Dynamic Pricing of ETF Options Based on Recurrent Neural Networks (2024) 
----
-permalink: /
-title: "About Me"
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 # **Welcome to my page!**
 
 · I am currently a Master's student in Mathematical Finance at the University of Southern California.  
