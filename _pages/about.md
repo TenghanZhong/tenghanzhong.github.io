@@ -20,14 +20,9 @@ redirect_from:
 
 # 📝 Projects Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
 [**Project**]
--Dynamic Pricing of ETF Options Based on Recurrent Neural Networks 
-</div>
-</div>
+-Dynamic Pricing of ETF Options Based on Recurrent Neural Networks (2024) （https://github.com/TenghanZhong/GRU-Heston）
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
