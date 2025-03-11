@@ -37,7 +37,7 @@ redirect_from:
 - *2022.09* First-Class Scholarship 
 
 # 📖 Educations
-- *2024.08 - now*, University of Southern California — **M.S. in Mathematical Finance**  
+- *2024.08 -** NOW**, University of Southern California — **M.S. in Mathematical Finance**  
 - *2020.09 - 2024.06*, Nanchang University — **B.S. in Mathematical Finance**  
 
 
