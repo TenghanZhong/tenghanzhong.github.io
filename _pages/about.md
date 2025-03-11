@@ -21,7 +21,7 @@ redirect_from:
 # 📝 Projects Experience
 
 [**Project**]
--Dynamic Pricing of ETF Options Based on Recurrent Neural Networks (2024) （https://github.com/TenghanZhong/GRU-Heston）
+-Dynamic Pricing of ETF Options Based on Recurrent Neural Networks (2024)  https://github.com/TenghanZhong/GRU-Heston
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
