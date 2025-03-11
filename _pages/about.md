@@ -18,16 +18,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-# **Welcome to my page!**
-
-· I am currently a Master's student in Mathematical Finance at the University of Southern California.  
-· My interest lies in Option pricing, Statistics and Volatility Modeling.  
-· I am seeking RA opportunities or a PhD position in Mathematical Finance, Statistics, or Economics.  
-
-📄 [Download my CV](Tenghan_cv_with_OngingCourses.pdf)
-
-<span class='anchor' id='about-me'></span> 
-
 # 📝 Projects Experience
 
 [**Project**]
