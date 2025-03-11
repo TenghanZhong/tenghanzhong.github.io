@@ -12,7 +12,7 @@ redirect_from:
 · My interest lies in Option pricing, Statistics and Volatility Modeling.  
 · I am seeking RA opportunities or a PhD position in Mathematical Finance, Statistics, or Economics.  
 
-📄 [Download my CV](_pages/Tenghan_cv_with_OngingCourses.pdf)
+📄 [Download my CV](Tenghan_cv_with_OngingCourses.pdf)
 
 <span class='anchor' id='about-me'></span> 
 
