@@ -9,9 +9,9 @@
 title                    : "Welcome!"
 favicon                  : "/images/favicon.ico"
 description: >
-  · I am currently a Master's student in Mathematical Finance at USC.
-  · My interest lies in Statistic, option pricing and volatility modeling.
-  · I am seeking RA opportunities or a PhD position in Mathematical Finance, Statistics, or Economics.
+  - I am currently a Master's student in Mathematical Finance at USC.
+  - My interest lies in Statistics, Option pricing and Volatility modeling.
+  - I am seeking RA opportunities or a PhD position in Mathematical Finance, Statistics, or Economics.
 
 repository               : "TenghanZhong/tenghanz.github.io"
 google_scholar_stats_use_cdn : true
