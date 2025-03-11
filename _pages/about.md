@@ -22,10 +22,10 @@ redirect_from:
 # 📝 Projects Experience
 
 
--《 Dynamic Pricing of ETF Options Based on Recurrent Neural Networks (2024) 》
+-《Dynamic Pricing of ETF Options Based on Recurrent Neural Networks (2024)》
  <a href="https://github.com/TenghanZhong/GRU-Heston" target="_blank">GRU-Heston GitHub Repository</a>
 
--《 Hybrid Approaches to Crypto Volatility Prediction Using GARCH and GRU Model（2024） 》
+-《Hybrid Approaches to Crypto Volatility Prediction Using GARCH and GRU Model（2024)》
  <a href="https://github.com/TenghanZhong/Crypto_Volatility_prediction" target="_blank">Crypto-Volatility-prediction GitHub Repository</a>
 
 
