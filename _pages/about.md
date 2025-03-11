@@ -23,7 +23,7 @@ redirect_from:
 
 [**Project**]
 -Dynamic Pricing of ETF Options Based on Recurrent Neural Networks (2024) 
-[GRU-Heston GitHub Repository](https://github.com/TenghanZhong/GRU-Heston)
+ <a href="https://github.com/TenghanZhong/GRU-Heston" target="_blank">GRU-Heston GitHub Repository</a>
 
 
 
