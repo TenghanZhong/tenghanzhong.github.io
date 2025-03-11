@@ -26,7 +26,7 @@ redirect_from:
  <a href="https://github.com/TenghanZhong/GRU-Heston" target="_blank">GRU-Heston GitHub Repository</a>
 
 -Hybrid Approaches to Crypto Volatility Prediction Using GARCH and GRU Model（2024）
-
+ <a href="https://github.com/TenghanZhong/Crypto_Volatility_prediction" target="_blank">GRU-Garch GitHub Repository</a>
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
