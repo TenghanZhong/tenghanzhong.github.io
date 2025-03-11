@@ -39,10 +39,6 @@ redirect_from:
 - *2020.09 - 2024.06*, Nanchang University — **B.S. in Mathematical Finance**  
 
 
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2023.09* First-Class Scholarship
 - *2023.03* Outstanding Student Cadres
