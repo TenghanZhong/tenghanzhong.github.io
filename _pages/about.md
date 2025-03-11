@@ -24,15 +24,20 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]
 -Dynamic Pricing of ETF Options Based on Recurrent Neural Networks 
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 🎖 Honors and Awards
+- *2023.09* First-Class Scholarship
+- *2023.03* Outstanding Student Cadres
+- *2022.09* First-Class Scholarship 
 
 # 📖 Educations
-- *2024.08 - now*, University of Southern California 
-- *2020.09 - 2024.06*, Nanchang University 
+- *2024.08 - now*, University of Southern California — **M.S. in Mathematical Finance**  
+- *2020.09 - 2024.06*, Nanchang University — **B.S. in Mathematical Finance**  
+
 
