@@ -29,8 +29,6 @@ redirect_from:
  <a href="https://github.com/TenghanZhong/Crypto_Volatility_prediction" target="_blank">GRU-Garch GitHub Repository</a>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2023.09* First-Class Scholarship
 - *2023.03* Outstanding Student Cadres
