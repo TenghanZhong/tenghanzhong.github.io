@@ -37,6 +37,14 @@ redirect_from:
 
 # 📖 Educations
 - *2024.08 -**NOW**, University of Southern California — **M.S. in Mathematical Finance**  
-- *2020.09 - 2024.06*, Nanchang University — **B.S. in Mathematical Finance**  
+- *2020.09 - 2024.06*, Nanchang University — **B.S. in Mathematical Finance**
+   
 
+# 📖 Graduate Courses
+- Stochastic Calculus and Mathematical Finance 
+- Time Series Analysis 
+- Investment Analysis and Portfolio Management 
+- Introduction to Mathematical Statistics (PhD Level) 
+- Stochastic Calculus and Mathematical Finance 
+- Machine Learning in Quantitative Finance
 
