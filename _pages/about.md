@@ -19,6 +19,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span> 
 
 
+# 📖 Educations
+- *2024.08 -**NOW**, University of Southern California — **M.S. in Mathematical Finance**  
+- *2020.09 - 2024.06*, Nanchang University — **B.S. in Mathematical Finance**
+
+
 # 📝 Projects Experience
 
 
@@ -27,17 +32,6 @@ redirect_from:
 
 -《Hybrid Approaches to Crypto Volatility Prediction Using GARCH and GRU Model（2024)》
  <a href="https://github.com/TenghanZhong/Crypto_Volatility_prediction" target="_blank">Crypto-Volatility-prediction GitHub Repository</a>
-
-
-# 🎖 Honors and Awards
-- *2023.09* First-Class Scholarship
-- *2023.03* Outstanding Student Cadres
-- *2022.09* First-Class Scholarship
-  
-
-# 📖 Educations
-- *2024.08 -**NOW**, University of Southern California — **M.S. in Mathematical Finance**  
-- *2020.09 - 2024.06*, Nanchang University — **B.S. in Mathematical Finance**
    
 
 # 📖 Graduate Courses
@@ -47,4 +41,10 @@ redirect_from:
 - Introduction to Mathematical Statistics (PhD Level) 
 - Stochastic Calculus and Mathematical Finance B
 - Machine Learning in Quantitative Finance
+
+
+# 🎖 Honors and Awards
+- *2023.09* First-Class Scholarship
+- *2023.03* Outstanding Student Cadres
+- *2022.09* First-Class Scholarship
 
