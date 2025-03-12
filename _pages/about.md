@@ -32,7 +32,8 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2023.09* First-Class Scholarship
 - *2023.03* Outstanding Student Cadres
-- *2022.09* First-Class Scholarship 
+- *2022.09* First-Class Scholarship
+  
 
 # 📖 Educations
 - *2024.08 -**NOW**, University of Southern California — **M.S. in Mathematical Finance**  
