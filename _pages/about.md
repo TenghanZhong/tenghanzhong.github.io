@@ -41,10 +41,10 @@ redirect_from:
    
 
 # 📖 Graduate Courses
-- Stochastic Calculus and Mathematical Finance 
+- Stochastic Calculus and Mathematical Finance A
 - Time Series Analysis 
 - Investment Analysis and Portfolio Management 
 - Introduction to Mathematical Statistics (PhD Level) 
-- Stochastic Calculus and Mathematical Finance 
+- Stochastic Calculus and Mathematical Finance B
 - Machine Learning in Quantitative Finance
 
