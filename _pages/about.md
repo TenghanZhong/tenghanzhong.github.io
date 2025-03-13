@@ -26,15 +26,12 @@ redirect_from:
 
 # 📝 Projects Experience
 
+- 《Dynamic Pricing of ETF Options Based on Recurrent Neural Networks (2024)》 <a href="https://github.com/TenghanZhong/GRU-Heston" target="_blank">GRU-Heston GitHub Repository</a>
 
--《Dynamic Pricing of ETF Options Based on Recurrent Neural Networks (2024)》
- <a href="https://github.com/TenghanZhong/GRU-Heston" target="_blank">GRU-Heston GitHub Repository</a>
+- 《Hybrid Approaches to Crypto Volatility Prediction Using GARCH and GRU Model（2024)》 <a href="https://github.com/TenghanZhong/Crypto_Volatility_prediction" target="_blank">Crypto-Volatility-prediction GitHub Repository</a>
 
--《Hybrid Approaches to Crypto Volatility Prediction Using GARCH and GRU Model（2024)》
- <a href="https://github.com/TenghanZhong/Crypto_Volatility_prediction" target="_blank">Crypto-Volatility-prediction GitHub Repository</a>
+- 《Credit Risk Measurement on Z-Score, Logistic, KMV and Credit Metrics Models（2023)》 <a href="https://github.com/TenghanZhong/Credit-Risk-Measurement" target="_blank">Credit-Risk GitHub Repository</a>
 
--《Credit Risk Measurement on Z-Score, Logistic, KMV and Credit Metrics Models（2023)》  
- <a href="https://github.com/TenghanZhong/Credit-Risk-Measurement" target="_blank">Credit-Risk GitHub Repository</a>
    
 
 # 📖 Graduate Courses
