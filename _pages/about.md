@@ -32,7 +32,8 @@ redirect_from:
 
 - 《Credit Risk Measurement on Z-Score, Logistic, KMV and Credit Metrics Models（2023)》 <a href="https://github.com/TenghanZhong/Credit-Risk-Measurement" target="_blank">Credit-Risk GitHub Repository</a>
 
-   
+- 《Reproduction of Everbright Market Timing & Huatai FFscore Model》 <a href="https://github.com/TenghanZhong/FFscore" target="_blank">FF-score</a> <a href="https://github.com/TenghanZhong/RSRS" target="_blank">RSRS</a>
+
 
 # 📖 Graduate Courses
 - Stochastic Calculus and Mathematical Finance A
