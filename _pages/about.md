@@ -12,22 +12,22 @@ redirect_from:
 
 · I am currently a Master's student in Mathematical Finance at the University of Southern California.<br>
  
-· My interest lies on the intersection of quantitative finance, machine learning, and statistical theory, with a particular interest in option pricing and volatility modeling.<br>
+· My interest lies at the intersection of quantitative finance, machine learning, and statistical theory, with a particular interest in option pricing and volatility modeling.<br>
  
-· I am seeking a PhD position in Mathematical Finance, Statistics, or Economics, where I can apply my skills to solve challenging problems in these areas.<br>
+· I am seeking PhD positions in Mathematical Finance, Statistics, or Economics, where I can apply my skills to solve challenging problems in these areas.<br>
 
 📄 [Download my CV](/assets/Tenghan_CV.pdf)
 
 
 <span class='anchor' id='about-me'></span> 
 
-# 📖 Educations
+# 📖 Education
 - *2024.08 -**NOW**, University of Southern California — **M.S. in Mathematical Finance**  
 - *2020.09 - 2024.06*, Nanchang University — **B.S. in Mathematical Finance**
 
 # 🔬 Research Experience
 ### Independent Research on Robust Multiple Testing
-*Supervisor: Prof. Bowen Gang, Fudan University* | *Mar. 2025 – Sep. 2025*
+*Supervisor: Prof. Bowen Gang, Fudan University* | *Mar. 2025 – Present*
 - **Addressed** the critical challenge of controlling the False Discovery Rate (FDR) in contaminated models where standard methods often fail.
 - **Developed** a novel single-split, hold-out framework ('envelope-p') and **proved** a rigorous, non-asymptotic, and implementable finite-sample FDR bound for the Benjamini-Hochberg procedure.
 - **Validated** the theoretical bound’s tightness via extensive simulations, with findings **prepared for a leading statistics journal manuscript.**
