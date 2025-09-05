@@ -11,18 +11,30 @@ redirect_from:
 # **Welcome to my page!**
 
 · I am currently a Master's student in Mathematical Finance at the University of Southern California.  
-· My interest lies in Option pricing, Statistics and Volatility Modeling.  
-· I am seeking RA opportunities or a PhD position in Mathematical Finance, Statistics, or Economics.  
+· My interest lies on the intersection of quantitative finance, machine learning, and statistical theory, with a particular interest in option pricing and volatility modeling.
+· I am seeking a PhD position in Mathematical Finance, Statistics, or Economics, where I can apply my skills to solve challenging problems in these areas.
 
 📄 [Download my CV](Tenghan_cv_with_OngingCourses.pdf)
 
 <span class='anchor' id='about-me'></span> 
 
-
 # 📖 Educations
 - *2024.08 -**NOW**, University of Southern California — **M.S. in Mathematical Finance**  
 - *2020.09 - 2024.06*, Nanchang University — **B.S. in Mathematical Finance**
 
+# 🔬 Research Experience
+### Independent Research on Robust Multiple Testing
+*Supervisor: Prof. Bowen Gang, Fudan University* | *Mar. 2025 – Sep. 2025*
+- **Addressed** the critical challenge of controlling the False Discovery Rate (FDR) in contaminated models where standard methods often fail.
+- **Developed** a novel single-split, hold-out framework ('envelope-p') and **proved** a rigorous, non-asymptotic, and implementable finite-sample FDR bound for the Benjamini-Hochberg procedure.
+- **Validated** the theoretical bound’s tightness via extensive simulations, with findings **prepared for a leading statistics journal manuscript.**
+
+### Research Assistant, UCLA Trustworthy AI Lab
+*Supervisor: Prof. Guang Cheng* | *June 2025 – Sep. 2025*
+- **Engineered** an end-to-end data pipeline to ETL over 5 million minute-level data points from Polymarket & Deribit APIs, serving as the core infrastructure for a high-frequency trading framework.
+    - *Tech Stack: Python (Pandas, Asyncio), PostgreSQL, Docker, REST/WebSocket APIs*
+- **Developed** and backtested a novel cross-market arbitrage strategy by modeling prediction market contracts as digital options, **yielding an 84.9% win rate** and a +0.051 Unit-ROI.
+- **Built, live-tested, and optimized** an in-play MLB microstructure strategy by engineering a factor library from 600+ signals, **delivering a consistent +30% ROI** over 65 live trades.
 
 # 📝 Projects Experience
 
@@ -36,16 +48,26 @@ redirect_from:
 
 
 # 📖 Graduate Courses
-- Stochastic Calculus and Mathematical Finance A
-- Time Series Analysis 
-- Investment Analysis and Portfolio Management 
-- Introduction to Mathematical Statistics (PhD Level) 
-- Stochastic Calculus and Mathematical Finance B
-- Machine Learning in Quantitative Finance
+**Mathematical & Statistical Foundations:**
+* Stochastic Calculus and Mathematical Finance A & B
+* Introduction to Mathematical Statistics (PhD Level)
+* Time Series Analysis
+
+**Computational Methods & Machine Learning:**
+* Machine Learning in Quantitative Finance
+* Big Data Econometrics
+* Linear Programming (PhD Level)
+* Financial Informatics and Simulation
+
+**Financial Applications:**
+* Investment Analysis and Portfolio Management
 
 
 # 🎖 Honors and Awards
 - *2023.09* First-Class Scholarship
 - *2023.03* Outstanding Student Cadres
 - *2022.09* First-Class Scholarship
+
+# 🎖 Working Experience
+  
 
