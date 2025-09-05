@@ -64,12 +64,23 @@ redirect_from:
 **Financial Applications:**
 * Investment Analysis and Portfolio Management
 
+# 🧑‍💼 Working Experience
+**Grader**, USC Dornsife College of Letters, Arts and Sciences
+*Los Angeles, CA* | *Sep. 2025 – Dec. 2025*
+- Grade homework and exams for MATH 125g: Calculus I, providing timely and constructive feedback to support student learning.
+
+**Quantitative Research Intern**, Vanho Securities (Asset Management Dept.)
+*Shenzhen, CN* | *Sep. 2023 – Nov. 2023*
+- Reproduced and analyzed two prominent quantitative strategies (Everbright's RSRS and Huatai's FFscore Model) using Python and Tushare data.
+- Optimized strategy parameters through sensitivity testing and feature engineering, **achieving a 200% excess return** in backtesting and **reducing the maximum drawdown by 20%.**
+- Designed and developed a versatile backtesting framework for timing and stock selection strategies, including modules for performance metric calculation, data visualization, and robustness testing.
+- Analyzed the performance of live quantitative strategies by tracking key factors and prepared comprehensive evaluation reports to support investment decisions.
 
 # 🎖 Honors and Awards
 - *2023.09* First-Class Scholarship
 - *2023.03* Outstanding Student Cadres
 - *2022.09* First-Class Scholarship
 
-# 🎖 Working Experience
+
   
 
