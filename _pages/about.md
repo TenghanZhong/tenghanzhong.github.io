@@ -16,7 +16,8 @@ redirect_from:
  
 · I am seeking a PhD position in Mathematical Finance, Statistics, or Economics, where I can apply my skills to solve challenging problems in these areas.<br>
 
-📄 [Download my CV](Tenghan_cv_with_OngingCourses.pdf)
+📄 [Download my CV](assets/Tenghan_CV.pdf)
+
 
 <span class='anchor' id='about-me'></span> 
 
