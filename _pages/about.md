@@ -62,7 +62,8 @@ redirect_from:
 
 # 📖 Graduate Courses
 **Mathematical & Statistical Foundations:**
-* Stochastic Calculus and Mathematical Finance A & B
+* Stochastic Calculus and Mathematical Finance A
+* Stochastic Calculus and Mathematical Finance B
 * Introduction to Mathematical Statistics (PhD Level)
 * Time Series Analysis
 
