@@ -10,9 +10,11 @@ redirect_from:
 
 # **Welcome to my page!**
 
-· I am currently a Master's student in Mathematical Finance at the University of Southern California.  
-· My interest lies on the intersection of quantitative finance, machine learning, and statistical theory, with a particular interest in option pricing and volatility modeling.
-· I am seeking a PhD position in Mathematical Finance, Statistics, or Economics, where I can apply my skills to solve challenging problems in these areas.
+· I am currently a Master's student in Mathematical Finance at the University of Southern California.<br>
+ 
+· My interest lies on the intersection of quantitative finance, machine learning, and statistical theory, with a particular interest in option pricing and volatility modeling.<br>
+ 
+· I am seeking a PhD position in Mathematical Finance, Statistics, or Economics, where I can apply my skills to solve challenging problems in these areas.<br>
 
 📄 [Download my CV](Tenghan_cv_with_OngingCourses.pdf)
 
