@@ -67,7 +67,7 @@ redirect_from:
 # 🧑‍💼 Working Experience
 **Grader**, USC Dornsife College of Letters, Arts and Sciences
 *Los Angeles, CA* | *Sep. 2025 – Dec. 2025*
-- Grade homework and exams for MATH 125g: Calculus I, providing timely and constructive feedback to support student learning.
+- Grade homework and exams for MATH 125g: Calculus I.
 
 **Quantitative Research Intern**, Vanho Securities (Asset Management Dept.)
 *Shenzhen, CN* | *Sep. 2023 – Nov. 2023*
