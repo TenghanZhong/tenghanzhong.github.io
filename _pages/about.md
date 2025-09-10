@@ -50,7 +50,7 @@ redirect_from:
 - 《Reproduction of Everbright Market Timing & Huatai FFscore Model》 <a href="https://github.com/TenghanZhong/FFscore" target="_blank">FF-score</a> <a href="https://github.com/TenghanZhong/RSRS" target="_blank">RSRS</a>
 
 # 🧑‍💼 Working Experience
-**Grader**, USC Dornsife College of Letters, Arts and Sciences
+**Teacher Assistant**, USC Dornsife College of Letters, Arts and Sciences
 *Los Angeles, CA* | *Sep. 2025 – Dec. 2025*
 - Grade homework and exams for MATH 125g: Calculus I.
 
