@@ -1,88 +1,78 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: ""
+title: "Tenghan Zhong"
+excerpt: "Mathematical finance, option pricing, volatility, and risk-sensitive decision-making."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-# **Welcome to my page!**
+# Tenghan Zhong
 
-· I am currently a Master's student in Mathematical Finance at the University of Southern California.<br>
- 
-· My interest lies at the intersection of quantitative finance, machine learning, and statistical theory, with a particular interest in option pricing and volatility modeling.<br>
- 
-· I am seeking PhD positions in Mathematical Finance, Statistics, or Economics, where I can apply my skills to solve challenging problems in these areas.<br>
+**Mathematical Finance · Option Pricing · Risk-Sensitive Decision-Making**
 
-📄 [Download my CV](/assets/Tenghan_CV.pdf)
+I received an M.S. in Mathematical Finance from the University of Southern California in 2026 and a B.Econ. in Mathematical Finance from Nanchang University in 2024.
 
+My research studies how option prices and risk measures should adapt to model misspecification and changing market regimes. I work at the intersection of mathematical finance, option pricing, volatility and model risk, and risk-sensitive decision-making, with growing interests in stochastic control and robust hedging.
 
-<span class='anchor' id='about-me'></span> 
+[Download CV](/assets/Tenghan_CV.pdf) · [GitHub](https://github.com/TenghanZhong) · [Email](mailto:tenghanz@usc.edu)
 
-# 📖 Education
-- *2024.08 -**NOW**, University of Southern California — **M.S. in Mathematical Finance**  
-- *2020.09 - 2024.06*, Nanchang University — **B.S. in Mathematical Finance**
+## Research Papers
 
-# 🔬 Research Experience
-### Independent Research on Robust Multiple Testing
-*Supervisor: Prof. Bowen Gang, Fudan University* | *Mar. 2025 – Present*
-- **Addressed** the critical challenge of controlling the False Discovery Rate (FDR) in contaminated models where standard methods often fail.
-- **Developed** a novel single-split, hold-out framework ('envelope-p') and **proved** a rigorous, non-asymptotic, and implementable finite-sample FDR bound for the Benjamini-Hochberg procedure.
-- **Validated** the theoretical bound’s tightness via extensive simulations, with findings **prepared for a leading statistics journal manuscript.**
+**“Marking-Aware Sequential VaR Recalibration for Standardized Option Books”**<br>
+**Tenghan Zhong** and Keyuan Wu. Accepted for a Long Presentation at IEEE CIFEr 2026.<br>
+[arXiv](https://arxiv.org/abs/2604.03499) · [Code](https://github.com/TenghanZhong/option-book-var)
 
-### Research Assistant, UCLA Trustworthy AI Lab
-*Supervisor: Prof. Guang Cheng* | *June 2025 – Sep. 2025*
-- **Engineered** an end-to-end data pipeline to ETL over 5 million minute-level data points from Polymarket & Deribit APIs, serving as the core infrastructure for a high-frequency trading framework.
-    - *Tech Stack: Python (Pandas, Asyncio), PostgreSQL, Docker, REST/WebSocket APIs*
-- **Developed** and backtested a novel cross-market arbitrage strategy by modeling prediction market contracts as digital options, **yielding an 84.9% win rate** and a +0.051 Unit-ROI.
-- **Built, live-tested, and optimized** an in-play MLB microstructure strategy by engineering a factor library from 600+ signals, **delivering a consistent +30% ROI** over 65 live trades.
+**“Risk-Sensitive Specialist Routing for Volatility Forecasting”**<br>
+**Tenghan Zhong**. Accepted as a Regular Paper (Oral Presentation) at IEEE SMC 2026.<br>
+[arXiv](https://arxiv.org/abs/2604.10402) · [Code](https://github.com/TenghanZhong/regime-aware-volatility-routing)
 
-# 📝 Projects Experience
+**“Non-Spanning Identification of Scheduled Event Risk in Option Pricing”**<br>
+**Tenghan Zhong**. Preprint.<br>
+[arXiv](https://arxiv.org/abs/2606.12872)
 
-- 《Dynamic Pricing of ETF Options Based on Recurrent Neural Networks (2024)》 <a href="https://github.com/TenghanZhong/GRU-Heston" target="_blank">GRU-Heston GitHub Repository</a>
+**“Quantifying Repair Risk in Crypto Option Surfaces”**<br>
+**Tenghan Zhong**. Working paper.
 
-- 《Hybrid Approaches to Crypto Volatility Prediction Using GARCH and GRU Model（2024)》 <a href="https://github.com/TenghanZhong/Crypto_Volatility_prediction" target="_blank">Crypto-Volatility-prediction GitHub Repository</a>
+## Research Experience
 
-- 《Credit Risk Measurement on Z-Score, Logistic, KMV and Credit Metrics Models（2023)》 <a href="https://github.com/TenghanZhong/Credit-Risk-Measurement" target="_blank">Credit-Risk GitHub Repository</a>
+### Research Assistant, Quantitative Research Group, UCLA
 
-- 《Reproduction of Everbright Market Timing & Huatai FFscore Model》 <a href="https://github.com/TenghanZhong/FFscore" target="_blank">FF-score</a> <a href="https://github.com/TenghanZhong/RSRS" target="_blank">RSRS</a>
+*Supervisor: Guang Cheng · Jun 2025–Sep 2025*
 
-# 🧑‍💼 Working Experience
-**Teacher Assistant**, USC Dornsife College of Letters, Arts and Sciences
-*Los Angeles, CA* | *Sep. 2025 – Dec. 2025*
-- Grade homework and exams for MATH 125g: Calculus I.
+- Built point-in-time research datasets from more than five million minute-level Polymarket and Deribit records.
+- Developed option-replication and market-microstructure decision frameworks evaluated under transaction costs and live deployment.
 
-**Quantitative Research Intern**, Vanho Securities (Asset Management Dept.)
-*Shenzhen, CN* | *Sep. 2023 – Nov. 2023*
-- Reproduced and analyzed two prominent quantitative strategies (Everbright's RSRS and Huatai's FFscore Model) using Python and Tushare data.
-- Optimized strategy parameters through sensitivity testing and feature engineering, **achieving a 200% excess return** in backtesting and **reducing the maximum drawdown by 20%.**
-- Designed and developed a versatile backtesting framework for timing and stock selection strategies, including modules for performance metric calculation, data visualization, and robustness testing.
+## Selected Projects
 
-# 📖 Graduate Courses
-**Mathematical & Statistical Foundations:**
-* Stochastic Calculus and Mathematical Finance A
-* Stochastic Calculus and Mathematical Finance B
-* Introduction to Mathematical Statistics (PhD Level)
-* Time Series Analysis
+### GPU-Accelerated Calibration for Rough Volatility with Jumps
 
-**Computational Methods & Machine Learning:**
-* Machine Learning in Quantitative Finance
-* Big Data Econometrics
-* Linear Programming (PhD Level)
-* Financial Informatics and Simulation
+Developed a neural-network surrogate and GPU-accelerated calibration pipeline for a rough-volatility model with jumps and VIX option data.<br>
+Research guidance from Weixuan Xia.<br>
+[Code](https://github.com/TenghanZhong/GPU-NN-Option-Calibration)
 
-**Financial Applications:**
-* Investment Analysis and Portfolio Management
+### Hybrid Heston–RNN Residual Learning for ETF Option Pricing
 
+Developed a structural-residual framework in which GRU and LSTM models learn persistent out-of-sample pricing errors left by the Heston model, using more than two million minute-level ETF option observations.<br>
+[Code](https://github.com/TenghanZhong/GRU-Heston)
 
+## Education
 
-# 🎖 Honors and Awards
-- *2023.09* First-Class Scholarship
-- *2023.03* Outstanding Student Cadres
-- *2022.09* First-Class Scholarship
+- **University of Southern California**, M.S. in Mathematical Finance, 2024–2026. GPA: 4.0/4.0.
+- **Nanchang University**, Bachelor of Economics in Mathematical Finance, 2020–2024.
 
+## Teaching & Professional Experience
 
-  
+### Teaching Assistant, University of Southern California
 
+*Sep 2025–May 2026*
+
+- Supported MATH 125g: Calculus I and MATH 126: Calculus II through grading and course administration.
+
+### Quantitative Research Intern, Vanho Securities
+
+*Asset Management Department · Sep 2023–Nov 2023*
+
+- Reproduced and extended systematic timing and value-stock-selection strategies using Python and Tushare market data.
+- Built a unified backtesting framework with performance attribution, risk metrics, visualization, and robustness checks.

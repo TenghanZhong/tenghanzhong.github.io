@@ -6,12 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Welcome!"
+title                    : "Tenghan Zhong | Mathematical Finance"
 favicon                  : "/images/favicon.ico"
-description              : "Master's student in Mathematical Finance at USC"
+description              : "Tenghan Zhong - mathematical finance, option pricing, volatility, and risk modeling."
+url                      : "https://tenghanzhong.github.io"
+baseurl                  : ""
 
 
-repository               : "TenghanZhong/tenghanz.github.io"
+repository               : "TenghanZhong/tenghanzhong.github.io"
+google_scholar_stats_enabled : false
 #google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -26,7 +29,7 @@ repository               : "TenghanZhong/tenghanz.github.io"
 author:
   name             : "Tenghan Zhong"
   avatar           : "images/My picture.jpg"
-  bio              : "University of Southern California"
+  bio              : "Mathematical Finance and Risk"
   location         : "Los Angeles, California"
   employer         :
   pubmed           : 
@@ -40,7 +43,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "TenghanZhong"
   google_plus      :
   keybase          :
   instagram        :
@@ -139,7 +142,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
