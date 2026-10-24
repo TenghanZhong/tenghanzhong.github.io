@@ -12,8 +12,6 @@ redirect_from:
 
 <p class="notice--info" style="font-size: 1.05em;"><strong>Applying to PhD programs for Fall 2027</strong></p>
 
-**Mathematical Finance · Financial Machine Learning · Risk Management**
-
 I received an M.S. in Mathematical Finance from the University of Southern California in 2026.
 
 My research interests lie in mathematical finance, with an emphasis on stochastic modeling, optimization, and machine learning. I study how these methods can support reliable forecasting, risk measurement, and financial decisions under model uncertainty and changing market conditions.
