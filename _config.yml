@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Tenghan Zhong | Mathematical Finance"
 favicon                  : "/images/favicon.ico"
-description              : "Tenghan Zhong - mathematical finance, option pricing, volatility, and risk modeling."
+description              : "Mathematical finance, financial machine learning, and risk management."
 url                      : "https://tenghanzhong.github.io"
 baseurl                  : ""
 
@@ -29,7 +29,7 @@ google_scholar_stats_enabled : false
 author:
   name             : "Tenghan Zhong"
   avatar           : "images/My picture.jpg"
-  bio              : "Mathematical Finance and Risk"
+  bio              : "PhD applicant · Fall 2027"
   location         : "Los Angeles, California"
   employer         :
   pubmed           : 
@@ -49,7 +49,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "tenghanz"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
