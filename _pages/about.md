@@ -30,7 +30,7 @@ My research interests lie in mathematical finance, with an emphasis on stochasti
 [Paper](/assets/papers/Repair_Risk.pdf) · [Code](https://github.com/TenghanZhong/no-arb-code)
 
 **“FNUG: Factor-Neutral Update Gating for Anchored Option Hedging”**<br>
-**Tenghan Zhong**, Yuxuan Ouyang, and Keyuan Wu. ACM ICAIF 2026. Accepted for poster presentation (22% acceptance rate).<br>
+**Tenghan Zhong**, Yuxuan Ouyang, and Keyuan Wu. ACM ICAIF 2026. Accepted for poster presentation.<br>
 [Paper](/assets/papers/FNUG.pdf) · [Code](https://github.com/TenghanZhong/Fnug_code)
 
 **“Feature or Penalty? A Placement Diagnostic for Graph-Risk Signals in Learned Portfolio Decisions”**<br>
@@ -59,7 +59,7 @@ My research interests lie in mathematical finance, with an emphasis on stochasti
 
 ### Calibration of Power-Type Derivatives for Rough Volatility with Jumps
 
-Developed a neural-network-assisted calibration method for power-type volatility derivatives under rough volatility with jumps, with substantial reductions in calibration time.<br>
+Developed a neural-network-assisted calibration method for power-type volatility derivatives under rough volatility with jumps.<br>
 Research guidance from Weixuan Xia.<br>
 [Code](https://github.com/TenghanZhong/GPU-NN-Option-Calibration)
 
