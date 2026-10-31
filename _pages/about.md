@@ -33,6 +33,10 @@ My research interests lie in mathematical finance, with an emphasis on stochasti
 **Tenghan Zhong**, Yuxuan Ouyang, and Keyuan Wu. ACM ICAIF 2026. Accepted for poster presentation (22% acceptance rate).<br>
 [Paper](/assets/papers/FNUG.pdf) · [Code](https://github.com/TenghanZhong/Fnug_code)
 
+**“Feature or Penalty? A Placement Diagnostic for Graph-Risk Signals in Learned Portfolio Decisions”**<br>
+**Tenghan Zhong**. ACM CIKM 2026.<br>
+[Paper](/assets/papers/CIKM.pdf) · [Code](https://github.com/TenghanZhong/within-state-score)
+
 **“Marking-Aware Sequential VaR Recalibration for Standardized Option Books”**<br>
 **Tenghan Zhong** and Keyuan Wu. IEEE CIFEr 2026. Selected for long presentation.<br>
 [Paper](https://arxiv.org/abs/2604.03499) · [Code](https://github.com/TenghanZhong/option-book-var)
