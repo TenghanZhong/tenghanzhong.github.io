@@ -35,7 +35,7 @@ My research interests lie in mathematical finance, with an emphasis on stochasti
 
 **“Feature or Penalty? A Placement Diagnostic for Graph-Risk Signals in Learned Portfolio Decisions”**<br>
 **Tenghan Zhong**. ACM CIKM 2026.<br>
-[Paper](/assets/papers/CIKM.pdf) · [Code](https://github.com/TenghanZhong/within-state-score)
+[ACM DL](https://dl.acm.org/doi/10.1145/3799682.3839875) · [PDF](/assets/papers/CIKM.pdf) · [Code](https://github.com/TenghanZhong/within-state-score)
 
 **“Marking-Aware Sequential VaR Recalibration for Standardized Option Books”**<br>
 **Tenghan Zhong** and Keyuan Wu. IEEE CIFEr 2026. Selected for long presentation.<br>
