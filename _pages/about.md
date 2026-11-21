@@ -26,12 +26,12 @@ My research interests lie in mathematical finance, with an emphasis on stochasti
 ## Selected Research Papers
 
 **“Quantifying Repair Risk in Crypto Option Surfaces”**<br>
-**Tenghan Zhong**. ACM ICAIF 2026. Selected for oral presentation.<br>
-[Paper](/assets/papers/Repair_Risk.pdf) · [Code](https://github.com/TenghanZhong/no-arb-code)
+**Tenghan Zhong**. ACM ICAIF 2026. Oral presentation.<br>
+[ACM DL](https://dl.acm.org/doi/10.1145/3858063.3858699) · [PDF](/assets/papers/Repair_Risk.pdf) · [Code](https://github.com/TenghanZhong/no-arb-code)
 
 **“FNUG: Factor-Neutral Update Gating for Anchored Option Hedging”**<br>
-**Tenghan Zhong**, Yuxuan Ouyang, and Keyuan Wu. ACM ICAIF 2026. Accepted for poster presentation.<br>
-[Paper](/assets/papers/FNUG.pdf) · [Code](https://github.com/TenghanZhong/Fnug_code)
+**Tenghan Zhong**, Yuxuan Ouyang, and Keyuan Wu. ACM ICAIF 2026. Poster presentation.<br>
+[ACM DL](https://dl.acm.org/doi/10.1145/3858063.3858697) · [PDF](/assets/papers/FNUG.pdf) · [Code](https://github.com/TenghanZhong/Fnug_code)
 
 **“Feature or Penalty? A Placement Diagnostic for Graph-Risk Signals in Learned Portfolio Decisions”**<br>
 **Tenghan Zhong**. ACM CIKM 2026.<br>
